@@ -1,3 +1,3 @@
 # book-automation
 
-Automatic substitution of variables
+Automatic substitution of variables.
